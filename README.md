@@ -2,7 +2,7 @@
 
 Sou formado em Ciências da Computação pelo Unisal Lorena, atualmente atuo como analista de sistema pleno na Imagem Geosistema.
 
-**Tech Stack**
+**Tech Stack: :hammer:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
@@ -11,7 +11,7 @@ Sou formado em Ciências da Computação pelo Unisal Lorena, atualmente atuo com
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
-**Connect with me**
+**Connect with me: 🤝 **
 
 <a href="https://www.linkedin.com/in/fernando-maximo/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 
